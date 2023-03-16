@@ -1,0 +1,17 @@
+---
+# с помощью символа # создаются комментарии, чтобы что-то пояснить
+name: Revyagin Sergey
+job: QA Engineer
+level: junior
+email: west1995@mail.ru
+description: |
+  I am starting my way in IT and have already learned how to write scripts to optimize my work (logistics)
+
+  
+skills: 
+  - functional testing
+  - non-functional testing
+  - writing test cases
+  - writing bug reports
+  - understanding of client-server architecture
+  - HTML, CSS, JS, Java
